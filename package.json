@@ -1,5 +1,5 @@
 {
-"name": "PRINCEAI",
+"name": "SSG56TEAM",
 "version": "2.9.8", 
 "homepage": ".",
 "description": "A Muslim WhatsApp User Bot",
@@ -20,16 +20,16 @@
 "test2": "nodemon index.js"
    },
     
-"homepage": "https://github.com/DASTAGHIR/PRINCEAI",
+"homepage": "https://github.com/SahilKing71/SSG56TEAM",
 "author": {
 "name": "dasta" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/DASTAGHIR/PRINCEAI.git" },
+"url": "git+https://github.com/SahilKing71/SSG56TEAM.git" },
 
 "bugs": {
-"url": "https://github.com/DASTAGHIR/PRINCEAI/issues" },
+"url": "https://github.com/SahilKing71/SSG56TEAM/issues" },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@brandond/findthelyrics": "^2.0.5",
